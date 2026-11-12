@@ -1,0 +1,6 @@
+{
+  "name": "Blood Buddy Connect",
+  "description": "Connecting blood donors with patients in urgent need through real-time availability tracking, emergency SOS broadcasts, and donor matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
